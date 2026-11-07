@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "package_id": "com.benighter.streamerx",
-  "version_code": 102,
-  "version_name": "1.0.2",
-  "apk_url": "https://benighters-personal-projects.vercel.app/releases/streamerx/1.0.2/StreamerX-1.0.2.apk",
-  "sha256": "eebe48eb78ca647d007f0d6a2536494afc61e6a8222b2c82511aab0a18cafd10",
-  "size_bytes": 1313491,
-  "release_notes": "- Tonight\u2019s Spotlight automatically pans through featured titles and loops smoothly back to the beginning.\n- Swipe through Spotlight, choose a title with its dots, or pause and resume the carousel. Motion pauses away from Home and respects reduced-motion settings.\n- Profile replaces the extra top-right Settings button, with OpenBackend sign-in, registration and sign-out.\n- Your sign-in is stored securely on the device and restored when you reopen StreamerX.\n- Automatic update checks on launch and from Settings, with release notes before downloading.\n- Signed updates are downloaded and verified before Android asks you to install.\n- A What's New screen keeps the current release notes available in Settings.\n- Home, Movies, Shows, Anime and Live TV remain visible together, including on narrow screens.\n\nLive TV uses a separate Watched account. Your library is saved locally. Password reset and email verification are not enabled for StreamerX accounts yet. The original local 1.0.0 preview needs this one-time installation to enable updates.",
-  "release_date": "2026-11-07",
-  "release_page": "https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.0.2",
+  "version_code": 110,
+  "version_name": "1.1.0",
+  "apk_url": "https://benighters-personal-projects.vercel.app/releases/streamerx/1.1.0/StreamerX-1.1.0.apk",
+  "sha256": "3c32964d727bd44b5ad81efa202d2735a2fc36e7c3eecbf7d029b287c4d3c2ab",
+  "size_bytes": 1326366,
+  "release_notes": "- Your library, ratings, watched titles and watch progress now sync with your StreamerX account across Android and the web.\n- Offline changes stay queued. Each account has its own device library, with removals preserved during sync.\n- Forgot your password? Request a one-use email reset link through OpenBackend.\n- StreamerX is available as a web app, with the same catalogue, Profile and library. Web playback has a Save position control; Android saves progress automatically.\n- Tonight\u2019s Spotlight automatically pans through featured titles and loops smoothly back to the beginning.\n- Swipe through Spotlight, choose a title with its dots, or pause and resume the carousel. Motion pauses away from Home and respects reduced-motion settings.\n- Profile replaces the extra top-right Settings button, with OpenBackend sign-in, registration and sign-out.\n- Your sign-in is stored securely on the device and restored when you reopen StreamerX.\n- Automatic update checks on launch and from Settings, with release notes before downloading.\n- Signed updates are downloaded and verified before Android asks you to install.\n- A What's New screen keeps the current release notes available in Settings.\n- Home, Movies, Shows, Anime and Live TV remain visible together, including on narrow screens.\n\nLive TV uses a separate Watched account. Watched\u2019s web player may require its own verification; save your web playback position using StreamerX\u2019s progress control. Android progress saves automatically. Email verification at registration is not enabled. The original local 1.0.0 preview needs a one-time installation to enable updates.",
+  "release_date": "2026-11-08",
+  "release_page": "https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.1.0",
   "source_repository": "https://github.com/Benighter/StreamerX"
 }
