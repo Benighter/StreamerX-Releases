@@ -2,11 +2,12 @@
 
 Movies, shows, anime and Live TV in an original charcoal, cyan and lime interface.
 
-[Download StreamerX 1.0.1](https://benighters-personal-projects.vercel.app/releases/streamerx/1.0.1/StreamerX-1.0.1.apk) · [Release notes](https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.0.1) · [App catalogue](https://benighters-personal-projects.vercel.app)
+[Download StreamerX 1.0.2](https://benighters-personal-projects.vercel.app/releases/streamerx/1.0.2/StreamerX-1.0.2.apk) · [Release notes](https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.0.2) · [App catalogue](https://benighters-personal-projects.vercel.app)
 
 Android 8.0 or newer. Package: `com.benighter.streamerx`.
 
 - All five categories: Home, Movies, Shows, Anime and Live TV.
+- Automatically looping Spotlight with a gentle image pan, swipes, dots and Pause/Play.
 - Top-right Profile with OpenBackend registration, sign-in and sign-out.
 - Search, genre/year filters, seasons and episodes, a local library, ratings and playback resume.
 - Signed update checks on launch and from Settings, with release notes and download verification. Android asks before installation.
