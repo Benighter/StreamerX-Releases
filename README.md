@@ -2,7 +2,7 @@
 
 Movies, shows, anime and Live TV in an original charcoal, cyan and lime interface.
 
-[Download Windows 1.3.0](https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe) · [Open StreamerX](https://streamerx-benighter.vercel.app) · [Download Android 1.3.0](https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-1.3.0.apk) · [Release notes](https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.3.0) · [App catalogue](https://benighters-personal-projects.vercel.app)
+[Download Windows 1.3.1](https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.1/StreamerX-Setup-1.3.1-x64.exe) · [Open StreamerX](https://streamerx-benighter.vercel.app) · [Download Android 1.3.0](https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-1.3.0.apk) · [Release notes](https://github.com/Benighter/StreamerX-Releases/releases/tag/v1.3.1) · [App catalogue](https://benighters-personal-projects.vercel.app)
 
 Android 8.0 or newer. Package: `com.benighter.streamerx`.
 
@@ -26,4 +26,4 @@ Update feed: https://benighters-personal-projects.vercel.app/releases/streamerx/
 
 Signing certificate SHA-256: `e06fc96fa24c2fda1653cd7f4badf124d75a15759b0e8c0c47c26f96c8002b62`.
 
-Windows 1.3.0 installs per user with desktop and Start menu shortcuts. Playback stays inside the main app, with Back, fullscreen and resume. Its bundled interface works independently of the hosted website. Windows account sessions use secure storage. Updates verify pinned signed metadata and the installer digest before asking to install and restart. The Windows installer is not Authenticode signed. Android 1.3.0 retains its existing package and signing certificate. Downloaded media stays on each device; media files do not sync between devices.
+Windows 1.3.1 fixes the startup packaging error in Windows 1.3.0. It installs per user with desktop and Start menu shortcuts. Playback stays inside the main app, with Back, fullscreen and resume. Its bundled interface works independently of the hosted website. Windows account sessions use secure storage. Updates verify pinned signed metadata and the installer digest before asking to install and restart. The Windows installer is not Authenticode signed. Android and web remain 1.3.0; Android retains its existing package and signing certificate. Downloaded media stays on each device; media files do not sync between devices.

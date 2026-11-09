@@ -1,9 +1,9 @@
-version: 1.3.0
+version: 1.3.1
 files:
-  - url: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe
-    sha512: tuApa9GtX5QfuuUEqmZuarStqlN37hLc1ZUHA/ACZyjA63pUR3XF99/44D1+/yTUvb8f2ejpw0cN9LF1OErv1A==
-    size: 128668644
-path: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe
-sha512: tuApa9GtX5QfuuUEqmZuarStqlN37hLc1ZUHA/ACZyjA63pUR3XF99/44D1+/yTUvb8f2ejpw0cN9LF1OErv1A==
+  - url: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.1/StreamerX-Setup-1.3.1-x64.exe
+    sha512: ZpGUL4pgVon2jAN+/uVYvyu+3VIRigX5x86M0wzih6JPx/3v9A9QI5y/MS3oYw3YUPzA0EECSFjkw0gSCMW1qQ==
+    size: 128668480
+path: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.1/StreamerX-Setup-1.3.1-x64.exe
+sha512: ZpGUL4pgVon2jAN+/uVYvyu+3VIRigX5x86M0wzih6JPx/3v9A9QI5y/MS3oYw3YUPzA0EECSFjkw0gSCMW1qQ==
 releaseDate: '2026-11-09T00:00:00.000Z'
-releaseNotes: "Play stays inside the main StreamerX window, with Back, fullscreen and automatic resume.\nAnime is now a Search filter, and All searches include anime results.\nFavourites are separate from My List and sync with your OpenBackend account.\nDownload movies and episodes in the Windows and Android apps, with progress, pause, retry, removal and offline playback.\nDub preference carries between episodes, falls back to sub when dub is unavailable, and is retained for later episodes.\nAutomatic data saving prefers lower quality away from Wi-Fi. Choose a quality to override it; available resolutions depend on the source.\nExisting account sessions, saved titles and viewing progress are preserved."
+releaseNotes: "Fixes Windows startup after installation by loading the packaged player integration from the bundled interface.\nPlay stays inside the main StreamerX window, with Back, fullscreen and automatic resume.\nAnime is now a Search filter, and All searches include anime results.\nFavourites are separate from My List and sync with your OpenBackend account.\nDownload movies and episodes in the Windows and Android apps, with progress, pause, retry, removal and offline playback.\nDub preference carries between episodes, falls back to sub when dub is unavailable, and is retained for later episodes.\nAutomatic data saving prefers lower quality away from Wi-Fi. Choose a quality to override it; available resolutions depend on the source.\nExisting account sessions, saved titles and viewing progress are preserved."
