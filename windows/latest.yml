@@ -1,0 +1,9 @@
+version: 1.2.0
+files:
+  - url: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.2.0/StreamerX-Setup-1.2.0-x64.exe
+    sha512: UODD6RvoOQZEP1Id3KiJoAApBJJMcJqsd892ou/FaQJUik3viRVTLr7DZTdT60/pnZOElFJZ4+5fqusLTfg9rQ==
+    size: 122171143
+path: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.2.0/StreamerX-Setup-1.2.0-x64.exe
+sha512: UODD6RvoOQZEP1Id3KiJoAApBJJMcJqsd892ou/FaQJUik3viRVTLr7DZTdT60/pnZOElFJZ4+5fqusLTfg9rQ==
+releaseDate: '2026-11-09T00:00:00.000Z'
+releaseNotes: "StreamerX is now a Windows app with all five categories and its own player window.\nYour OpenBackend account syncs your library, ratings, watched titles and viewing progress across Windows, Android and the web.\nWindows remembers playback position automatically and restores your sign-in securely.\nUpdates include release notes and a verified download before installation.\nThe web player now explains provider verification and offers a separate browser player."

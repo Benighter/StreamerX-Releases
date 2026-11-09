@@ -1,0 +1,23 @@
+{
+  "payload": {
+    "schema": 1,
+    "appId": "com.benighter.streamerx.desktop",
+    "platform": "win32",
+    "arch": "x64",
+    "version": "1.2.0",
+    "url": "https://github.com/Benighter/StreamerX-Releases/releases/download/v1.2.0/StreamerX-Setup-1.2.0-x64.exe",
+    "size": 122171143,
+    "sha512": "UODD6RvoOQZEP1Id3KiJoAApBJJMcJqsd892ou/FaQJUik3viRVTLr7DZTdT60/pnZOElFJZ4+5fqusLTfg9rQ==",
+    "sha256": "853ae49cd74c6e8672763a2bafefe3773557628024cca3be772199334ed3c37d",
+    "releaseDate": "2026-11-09",
+    "notes": [
+      "StreamerX is now a Windows app with all five categories and its own player window.",
+      "Your OpenBackend account syncs your library, ratings, watched titles and viewing progress across Windows, Android and the web.",
+      "Windows remembers playback position automatically and restores your sign-in securely.",
+      "Updates include release notes and a verified download before installation.",
+      "The web player now explains provider verification and offers a separate browser player."
+    ],
+    "limitations": "Watched controls playback availability and may ask you to verify that you are human or sign into its separate account. Complete that check yourself in the player. Web playback position uses Save position; Windows and Android save it automatically. The Windows installer is not Authenticode signed; update metadata has its own pinned signing key."
+  },
+  "signature": "4+4AfI63xE+S7XboJSG60jIAzKvD/69Jb1wzMzaINtvh6n1AUZwP7Fc344NBzca9KZ6VXr+OhZeEhx5niy/1AQ=="
+}
