@@ -1,0 +1,25 @@
+{
+  "payload": {
+    "schema": 1,
+    "appId": "com.benighter.streamerx.desktop",
+    "platform": "win32",
+    "arch": "x64",
+    "version": "1.3.0",
+    "url": "https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe",
+    "size": 128668644,
+    "sha512": "tuApa9GtX5QfuuUEqmZuarStqlN37hLc1ZUHA/ACZyjA63pUR3XF99/44D1+/yTUvb8f2ejpw0cN9LF1OErv1A==",
+    "sha256": "f6d7007989c265482789eb1f690ba5fb1ec906eac5c9c10afba3f5c5260e7302",
+    "releaseDate": "2026-11-09",
+    "notes": [
+      "Play stays inside the main StreamerX window, with Back, fullscreen and automatic resume.",
+      "Anime is now a Search filter, and All searches include anime results.",
+      "Favourites are separate from My List and sync with your OpenBackend account.",
+      "Download movies and episodes in the Windows and Android apps, with progress, pause, retry, removal and offline playback.",
+      "Dub preference carries between episodes, falls back to sub when dub is unavailable, and is retained for later episodes.",
+      "Automatic data saving prefers lower quality away from Wi-Fi. Choose a quality to override it; available resolutions depend on the source.",
+      "Existing account sessions, saved titles and viewing progress are preserved."
+    ],
+    "limitations": "Watched controls playback, audio availability and verification. StreamerX does not host media or bypass provider access checks. Downloads stay on this device and do not sync as media files. Web playback uses Save position and the browser-player fallback when embedded verification stalls. The Windows installer is not Authenticode signed; updates verify pinned signed metadata and the installer digest."
+  },
+  "signature": "I1BiWJ2/4HgyCLe1XUN6SpBaArKfepC57sdi8Yj1LD8jQtevDLx0kfXylHAQJpjqhrYGZUJMLtE/Ct+uUU+9DA=="
+}

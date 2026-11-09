@@ -1,9 +1,9 @@
-version: 1.2.0
+version: 1.3.0
 files:
-  - url: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.2.0/StreamerX-Setup-1.2.0-x64.exe
-    sha512: UODD6RvoOQZEP1Id3KiJoAApBJJMcJqsd892ou/FaQJUik3viRVTLr7DZTdT60/pnZOElFJZ4+5fqusLTfg9rQ==
-    size: 122171143
-path: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.2.0/StreamerX-Setup-1.2.0-x64.exe
-sha512: UODD6RvoOQZEP1Id3KiJoAApBJJMcJqsd892ou/FaQJUik3viRVTLr7DZTdT60/pnZOElFJZ4+5fqusLTfg9rQ==
+  - url: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe
+    sha512: tuApa9GtX5QfuuUEqmZuarStqlN37hLc1ZUHA/ACZyjA63pUR3XF99/44D1+/yTUvb8f2ejpw0cN9LF1OErv1A==
+    size: 128668644
+path: https://github.com/Benighter/StreamerX-Releases/releases/download/v1.3.0/StreamerX-Setup-1.3.0-x64.exe
+sha512: tuApa9GtX5QfuuUEqmZuarStqlN37hLc1ZUHA/ACZyjA63pUR3XF99/44D1+/yTUvb8f2ejpw0cN9LF1OErv1A==
 releaseDate: '2026-11-09T00:00:00.000Z'
-releaseNotes: "StreamerX is now a Windows app with all five categories and its own player window.\nYour OpenBackend account syncs your library, ratings, watched titles and viewing progress across Windows, Android and the web.\nWindows remembers playback position automatically and restores your sign-in securely.\nUpdates include release notes and a verified download before installation.\nThe web player now explains provider verification and offers a separate browser player."
+releaseNotes: "Play stays inside the main StreamerX window, with Back, fullscreen and automatic resume.\nAnime is now a Search filter, and All searches include anime results.\nFavourites are separate from My List and sync with your OpenBackend account.\nDownload movies and episodes in the Windows and Android apps, with progress, pause, retry, removal and offline playback.\nDub preference carries between episodes, falls back to sub when dub is unavailable, and is retained for later episodes.\nAutomatic data saving prefers lower quality away from Wi-Fi. Choose a quality to override it; available resolutions depend on the source.\nExisting account sessions, saved titles and viewing progress are preserved."
